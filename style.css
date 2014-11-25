@@ -1,0 +1,25 @@
+header {
+    background-color: #f451e7;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+body {
+    margin:0;
+}
+
+ul {
+    margin:0;
+    padding:0;
+}
+
+header a {
+    color:white;
+    text-decoration:none;
+}
+
+header li {
+ display:inline-block; /* Mettre en ligne les blocs */
+ width:32%; /* largeur d'un élément */
+    text-align:center;
+}
