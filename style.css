@@ -6,6 +6,7 @@ header {
 
 body {
     margin:0;
+    background-color: lightgrey;
 }
 
 ul {
@@ -22,4 +23,11 @@ header li {
  display:inline-block; /* Mettre en ligne les blocs */
  width:32%; /* largeur d'un élément */
     text-align:center;
+}
+
+main {
+    background-color: white;
+    max-width: 1000px;
+    margin:auto;
+    padding:30px;
 }
