@@ -1,6 +1,4 @@
 $(document).ready(function(){
-	$('.monslider').slick({
-    $('.single-item').slick();
-	});
+	$('.monslider').slick();
 });
 				
